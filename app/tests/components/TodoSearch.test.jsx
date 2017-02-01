@@ -31,4 +31,4 @@ describe('TodoSearch', () => {
 
     expect(spy).toHaveBeenCalledWith(true, '');
   });
-})
+});
